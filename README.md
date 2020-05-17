@@ -9,6 +9,6 @@ memilih game yang tersedia pada table apabila ingin mencari bisa lewat textbox y
 setelah terpesan user dapat langsung membayar game tersebut dengan mengklik menu order untuk memperoleh virtual account yang telah digenerate lalu tunggu hingga di konfirmasikan admin
 untuk admin sendiri setelah login admin akan dibawa ke panel admin lalu dia dapat melakukan beberapa hal seperti :
 
-menginput data game ke dalam database game
-mengubah data yang ada di dalam database game
-mengkonfirmasi pembayaran dan mengubah status lunas yang tersedia di menu order admin
+- menginput data game ke dalam database game
+- mengubah data yang ada di dalam database game
+- mengkonfirmasi pembayaran dan mengubah status lunas yang tersedia di menu order admin
